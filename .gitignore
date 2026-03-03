@@ -14,6 +14,7 @@ DerivedDataCache/
 Intermediate/
 Saved/
 
+
 # 기타 캐시
 *.VC.db
 *.VC.opendb

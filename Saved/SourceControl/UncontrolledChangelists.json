@@ -7,7 +7,12 @@
 			"files": [
 				"F:/UnrealProjects/Day7/Content/Day7.umap",
 				"F:/UnrealProjects/Day7/Content/Blueprints/BP_FirstPersonCharacter.uasset",
-				"F:/UnrealProjects/Day7/Content/Blueprints/BP_MyGameMode.uasset"
+				"F:/UnrealProjects/Day7/Content/Blueprints/BP_MyGameMode.uasset",
+				"F:/UnrealProjects/Day7/Content/Blueprints/BP_Door.uasset",
+				"F:/UnrealProjects/Day7/Content/Inputs/IA_Move.uasset",
+				"F:/UnrealProjects/Day7/Content/Inputs/IA_Look.uasset",
+				"F:/UnrealProjects/Day7/Content/Inputs/IA_Interact.uasset",
+				"F:/UnrealProjects/Day7/Content/Inputs/IMC_Default.uasset"
 			]
 		}
 	]
