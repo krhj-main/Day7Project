@@ -12,7 +12,9 @@
 				"F:/UnrealProjects/Day7/Content/Inputs/IA_Move.uasset",
 				"F:/UnrealProjects/Day7/Content/Inputs/IA_Look.uasset",
 				"F:/UnrealProjects/Day7/Content/Inputs/IA_Interact.uasset",
-				"F:/UnrealProjects/Day7/Content/Inputs/IMC_Default.uasset"
+				"F:/UnrealProjects/Day7/Content/Inputs/IMC_Default.uasset",
+				"F:/UnrealProjects/Day7/Content/Blueprints/BP_Exit.uasset",
+				"F:/UnrealProjects/Day7/Content/Blueprints/WBP_StageClear.uasset"
 			]
 		}
 	]
