@@ -28,3 +28,4 @@ Thumbs.db
 # 대용량 에셋 (필요시 Git LFS로 관리)
 # *.uasset
 # *.umap
+Intermediate/
